@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Treino_.Net_MongoDb/Treino_.Net_MongoDb.csproj" Id="24dc046f-c6cd-47c5-bb0a-0f2748c91b6e" />
   <Project Path="WebApiMongoDbDemo/WebApiMongoDbDemo.csproj" />
 </Solution>

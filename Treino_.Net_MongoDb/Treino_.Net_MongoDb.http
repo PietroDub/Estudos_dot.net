@@ -1,0 +1,6 @@
+@Treino_.Net_MongoDb_HostAddress = http://localhost:5152
+
+GET {{Treino_.Net_MongoDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
